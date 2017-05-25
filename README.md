@@ -1,5 +1,5 @@
 
-# Stegnography Assignment
+# Stegnography Demo
 
 An Encoder and Decoder Module Written in python.
 
