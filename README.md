@@ -1,5 +1,5 @@
 
-# Stegnography Demo
+# Steganography Demo
 
 An Encoder and Decoder Module Written in python.
 
